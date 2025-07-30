@@ -23,11 +23,10 @@
   </section>
   <h1>Reel Educativo</h1>
   <div class="video-container">
-    <iframe src="https://www.youtube.com/shorts/0wvHsuV847c"
-            title="YouTube Short"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-    </iframe>
-  </div>
-  <div class="caption">© YouTube Short - Propiedad de sus respectivos autores</div>
+    <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/0wvHsuV847c"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
